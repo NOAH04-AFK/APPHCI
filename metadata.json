@@ -1,0 +1,5 @@
+{
+  "name": "Chernobyl-Z Control Interface",
+  "description": "Prototype interface for emergency nuclear shutdown under zombie containment protocols. Designed for rapid usability testing.",
+  "requestFramePermissions": []
+}
